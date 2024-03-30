@@ -17,7 +17,7 @@ hr {
   margin: 20px auto;
   text-align: center;
   border-width: 3px;
-  color: #fce877;
+  color: #ff0000;
   max-width: 65px;
   opacity: 1;
 }
@@ -30,12 +30,12 @@ hr {
   text-transform: uppercase;
 }
 .btn-primary {
-  background-color: #fce877;
-  border-color: #fce877;
+  background-color: #ff0000;
+  border-color: #ff0000;
 }
 .btn-primary:hover {
-  background-color: #fce877;
-  border-color: #fce877;
+  background-color: #ff0000;
+  border-color: #ff0000;
   border-width: 4px;
 }
 .btn-x1 {
